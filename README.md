@@ -10,7 +10,7 @@
 [![Website](https://img.shields.io/website?label=nathanielhussein.netlify.app&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://nathanielhussein.netlify.app/)
 
 
-## I'm a Developer, and Student!!
+## I'm a Full-Stack Engineer, and Student!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
