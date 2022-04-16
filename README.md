@@ -77,7 +77,7 @@
 
 <br />
 <br />
-<a href="https://github.com/m0rp43us">
+<a href="https://github.com/natnaelawel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/username=natnaelawel&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 <br />
