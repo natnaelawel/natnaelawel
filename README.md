@@ -70,7 +70,8 @@
 
 <br />
 <br />
-                            📈 my github stats
+<p></p>
+📈 my github stats
 <br />
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=natnaelawel&show_icons=true&theme=gotham" alt="natnaelawel" />
@@ -80,11 +81,10 @@
 <a href="https://github.com/natnaelawel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/username=natnaelawel&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
-<br />
-<br />
 <a href="https://github.com/natnaelawel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natnaelawel&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natnaelawel&theme=black-ice&text_color=fff" />
 </a>
+
 <br />
 <br />
   
