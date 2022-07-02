@@ -82,7 +82,11 @@
 </a>
 <br />
 <br />
-  
+<a href="https://github.com/natnaelawel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natnaelawel&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
+<br />
+<br />
   
 <b>🔥 Github Streaks</b>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=natnaelawel&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="natnaelawel" /></p>
