@@ -73,14 +73,12 @@
 📈 my github stats
 <br />
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 0 50px;">
-<a href="https://github.com/natnaelawel">
-<img src="https://github-readme-stats.vercel.app/api?username=natnaelawel&show_icons=true&theme=gotham" alt="natnaelawel" />
-</a>
-<a href="https://github.com/natnaelawel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natnaelawel&&theme=gotham" />
-</a>
-</div>
+<table align="center">
+  <tr align="center">
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natnaelawel&layout=compact&theme=gotham"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=natnaelawel&theme=gotham"/></td>
+  </tr>
+</table>
 
 <br />
 <br />
