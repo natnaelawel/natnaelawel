@@ -4,11 +4,9 @@
 [instagram]: https://www.instagram.com/__nathaniel__awel/
 [linkedin]: https://linkedin.com/in/nathaniel-hussein
 
-
 ### Hi there, I'm Nathaniel - aka [Nati][website] 👋
 
 [![Website](https://img.shields.io/website?label=nathanielhussein.netlify.app&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://nathanielhussein.netlify.app/)
-
 
 ## I'm a Full-Stack Engineer, and Student!!
 
@@ -17,9 +15,10 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play soccer and watching movie
 
-
-
 ### Connect with me :smiley:
+
+<div style="display: flex; align-items: center; gap: 0 10px;">
+
 <a href="https://linkedin.com/in/nathaniel-hussein/">
   <img align="left" alt="Nathaniel Hussein Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
@@ -41,13 +40,13 @@
 <a href="https://www.instagram.com/__nathaniel__awel/">
   <img align="left" alt="Nathaniel Hussein Linkdin" width="21px" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" />
 </a>
+</div>
 
 <br/><br/>
 
-
 ### Languages and Tools:
 
-
+<div style="display: flex; align-items: center; gap: 0 10px;">
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -67,23 +66,21 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
+</div>
 <br />
 <br />
 <p></p>
 📈 my github stats
 <br />
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=natnaelawel&show_icons=true&theme=gotham" alt="natnaelawel" />
-
-<br />
-<br />
+<div style="display: flex; justify-content: center; align-items: center; gap: 0 50px;">
 <a href="https://github.com/natnaelawel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/username=natnaelawel&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+<img src="https://github-readme-stats.vercel.app/api?username=natnaelawel&show_icons=true&theme=gotham" alt="natnaelawel" />
 </a>
 <a href="https://github.com/natnaelawel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natnaelawel&theme=black-ice&text_color=fff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natnaelawel&&theme=gotham" />
 </a>
+</div>
 
 <br />
 <br />
