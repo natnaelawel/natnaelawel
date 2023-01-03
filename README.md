@@ -6,13 +6,13 @@
 
 ### Hi there, I'm Nathaniel - aka [Nati][website] 👋
 
-[![Website](https://img.shields.io/website?label=nathanielhussein.netlify.app&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://nathanielhussein.netlify.app/)
+[![Website](https://img.shields.io/website?label=nathaniel-hussein.vercel.app&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://nathaniel-hussein.vercel.app/)
 
 ## I'm a Full-Stack Engineer, and Student!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play soccer and watching movie
 
 ### Connect with me :smiley:
