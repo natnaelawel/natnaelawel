@@ -8,7 +8,7 @@
 
 [![Website](https://img.shields.io/website?label=nathaniel-hussein.vercel.app&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://nathaniel-hussein.vercel.app/)
 
-## I'm a Full-Stack Engineer, and Student!!
+## I'm a Full-Stack Engineer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
